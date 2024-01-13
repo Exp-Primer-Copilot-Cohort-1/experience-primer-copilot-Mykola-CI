@@ -1,2 +1,3 @@
-// Create web-server for comments
+// Create web-server to handle comments
+
 
